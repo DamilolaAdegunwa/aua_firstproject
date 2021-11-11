@@ -588,7 +588,6 @@ C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Tes
 C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Tests\bin\Debug\net5.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Tests\obj\Debug\net5.0\AUA.ProjectName.Tests.csproj.AssemblyReference.cache
 C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Tests\obj\Debug\net5.0\AUA.ProjectName.Tests.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Tests\obj\Debug\net5.0\AUA.ProjectName.Tests.AssemblyInfoInputs.cache
 C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Tests\obj\Debug\net5.0\AUA.ProjectName.Tests.AssemblyInfo.cs
