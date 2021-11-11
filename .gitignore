@@ -17,6 +17,7 @@ AUA.ProjectName.Common.csproj.FileListAbsolute.txt
 *.csproj.FileListAbsolute.txt
 *.FileListAbsolute.txt
 *.txt
+AUA.ProjectName.Tests.csproj.FileListAbsolute.txt
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 

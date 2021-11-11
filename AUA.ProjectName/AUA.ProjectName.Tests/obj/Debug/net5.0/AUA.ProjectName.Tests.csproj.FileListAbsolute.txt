@@ -597,4 +597,3 @@ C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Tes
 C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Tests\obj\Debug\net5.0\ref\AUA.ProjectName.Tests.dll
 C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Tests\obj\Debug\net5.0\AUA.ProjectName.Tests.pdb
 C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Tests\obj\Debug\net5.0\AUA.ProjectName.Tests.genruntimeconfig.cache
-C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Tests\obj\Debug\net5.0\AUA.ProjectName.Tests.csproj.AssemblyReference.cache
