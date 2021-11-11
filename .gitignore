@@ -12,6 +12,7 @@
 AUA.ProjectName.DataLayer.AssemblyInfoInputs.cache
 *.AssemblyInfoInputs.cache
 *.cache
+.suo
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 
