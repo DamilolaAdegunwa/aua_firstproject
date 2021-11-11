@@ -69,14 +69,3 @@ C:\Users\damil\source\repos\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net
 C:\Users\damil\source\repos\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net5.0\AUA.ProjectName.Common.dll
 C:\Users\damil\source\repos\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net5.0\ref\AUA.ProjectName.Common.dll
 C:\Users\damil\source\repos\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net5.0\AUA.ProjectName.Common.pdb
-C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Common\bin\Debug\net5.0\AUA.ProjectName.Common.deps.json
-C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Common\bin\Debug\net5.0\AUA.ProjectName.Common.dll
-C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Common\bin\Debug\net5.0\ref\AUA.ProjectName.Common.dll
-C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Common\bin\Debug\net5.0\AUA.ProjectName.Common.pdb
-C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net5.0\AUA.ProjectName.Common.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net5.0\AUA.ProjectName.Common.AssemblyInfoInputs.cache
-C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net5.0\AUA.ProjectName.Common.AssemblyInfo.cs
-C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net5.0\AUA.ProjectName.Common.csproj.CoreCompileInputs.cache
-C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net5.0\AUA.ProjectName.Common.dll
-C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net5.0\ref\AUA.ProjectName.Common.dll
-C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net5.0\AUA.ProjectName.Common.pdb
