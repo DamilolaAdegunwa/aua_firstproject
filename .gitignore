@@ -13,6 +13,9 @@ AUA.ProjectName.DataLayer.AssemblyInfoInputs.cache
 *.AssemblyInfoInputs.cache
 *.cache
 .suo
+AUA.ProjectName.Common.csproj.FileListAbsolute.txt
+*.csproj.FileListAbsolute.txt
+*.FileListAbsolute.txt
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
 

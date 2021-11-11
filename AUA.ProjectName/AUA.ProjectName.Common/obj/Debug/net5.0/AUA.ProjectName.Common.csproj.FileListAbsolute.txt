@@ -80,3 +80,4 @@ C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Com
 C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net5.0\AUA.ProjectName.Common.dll
 C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net5.0\ref\AUA.ProjectName.Common.dll
 C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net5.0\AUA.ProjectName.Common.pdb
+C:\Users\damil\source\repos\aua_firstproject\AUA.ProjectName\AUA.ProjectName.Common\obj\Debug\net5.0\AUA.ProjectName.Common.csproj.AssemblyReference.cache
